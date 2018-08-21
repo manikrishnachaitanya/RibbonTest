@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: HelloApplication
+
+server:
+  port: 9092
